@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+
 mensagem = 'Bem vindo'
 nome = input("digite seu nome: ")
 idade = int(input("digite sua idade: "))
