@@ -1,0 +1,8 @@
+Entender o consensus - raft (Importante leitura)
+http://thesecretlivesofdata.com/raft/
+
+Configurando o ipfs cluster
+https://medium.com/coinmonks/setting-up-your-first-distributed-private-storage-network-on-ipfs-part-1-a6ff15222b90
+https://medium.com/coinmonks/setting-up-your-first-distributed-private-storage-network-on-ipfs-part-2-4b6f96712bae
+https://medium.com/coinmonks/setting-up-your-first-distributed-private-storage-network-on-ipfs-part-3-48851488b8d8
+https://hackernoon.com/setting-up-a-2-node-private-storage-network-on-ipfs-in-1-min-part-4-93ea41d4c551
