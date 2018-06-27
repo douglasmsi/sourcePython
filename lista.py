@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 nomes = ['daniel','maria','jose','joao']
+nomes1 = ['daniel','maria','jose','joao']
 
 nomes.append(['daniel','prata'])
 nomes.insert(0, 'prata')
@@ -14,7 +15,9 @@ print(nomes[-1][0])
 print(len(nomes))
 print(len(nomes[-1]))
 
-
-
 numeros = list((range(40,100)))
 print(numeros)
+
+nomes1 = [nome.title() for nome in nomes1]
+
+print(nomes1)

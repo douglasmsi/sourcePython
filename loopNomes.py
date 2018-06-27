@@ -6,7 +6,7 @@
 lista = []
 while True:
     valor = input("Digite um nome ou Sair : ")
-    if valor == 'Sair':
+    if valor.strip().lower() == 'sair':
         break
 
     lista.append(valor)
