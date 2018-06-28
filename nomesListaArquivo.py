@@ -14,5 +14,10 @@ with open('nomes.txt','a') as arquivo:
 
 with open('nomes.txt', 'r') as arquivo2:
     var = arquivo2.readlines()
+    alterado = []
+    cont = 1
+    for linha in var:
+        alterado.append('{}-{}'.format(cont, linha))
+        cont += 1
 
-print(var)
+print(alterado)
