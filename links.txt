@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 Entender o consensus - raft (Importante leitura)
 http://thesecretlivesofdata.com/raft/
 
@@ -9,3 +10,6 @@ https://hackernoon.com/setting-up-a-2-node-private-storage-network-on-ipfs-in-1-
 
 
 https://devops.stackexchange.com/questions/2731/downloading-docker-images-from-docker-hub-without-using-docker
+
+
+https://www.tecmint.com/split-large-tar-into-multiple-files-of-certain-size/

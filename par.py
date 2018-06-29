@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+#!/usr/bin/python3
 
 #Ler numero e verificar se ele e par ou impar
 # e adicionar ele em uma lista com o Resultado
