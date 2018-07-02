@@ -1,5 +1,6 @@
-#install ipfs-cluster
+#!/bin/bash
 
+#install ipfs-cluster
 cd $HOME
 #wget https://dist.ipfs.io/go-ipfs/v0.4.14-rc1/go-ipfs_v0.4.14-rc1_linux-amd64.tar.gz
 wget https://dist.ipfs.io/go-ipfs/v0.4.9/go-ipfs_v0.4.9_linux-amd64.tar.gz
