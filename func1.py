@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-nome = input('Digite o nome do arquivo: ')
+#nome = input('Digite o nome do arquivo: ')
 
 def abre_arquivo(nome):
     try:
@@ -19,10 +19,14 @@ def escr_arq(nome_arq, conteudo):
         return "Erro: {}".format(e)
 
 def alterar_lista(lista):
-    return lista
+    lista1 = []
+    for x in lista:
+        lista1.append('{}\n'.format(x))
+    return lista1
 
-
+nomes = ['daniel','teste']
 #arquivo = abre_arquivo(nome)
+print(alterar_lista(nomes))
 #print(arquivo)
-#nomes = ['daniel\n','teste\n']
-escr_arq('nomes.txt',abre_arquivo(nome))
+
+#escr_arq('nomes.txt',abre_arquivo(nome))
