@@ -21,3 +21,5 @@ https://github.com/Kubuxu/go-ipfs-swarm-key-gen
 https://stackoverflow.com/questions/43316376/what-does-net-host-option-in-docker-command-really-do
 
 http://www.dasblinkenlichten.com/docker-networking-101-host-mode/
+
+https://hackernoon.com/publish-your-docker-image-to-docker-hub-10b826793faf
